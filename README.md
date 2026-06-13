@@ -1,4 +1,4 @@
-# PKU-SEGPOS 基于 BERT 的词性标注模型
+# 基于 BERT 的词性标注模型
 
 本项目实现了一个基于预训练 BERT 模型的中文词性标注（Part-of-Speech Tagging）与序列标注系统，主要用于生成 PKU-SEGPOS 的 `span_list` 预测。系统通过命名实体识别（NER）中常用的 BIO 标注体系对中文文本进行词性追踪与分类。
 
